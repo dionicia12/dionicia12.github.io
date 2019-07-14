@@ -16,12 +16,25 @@
       font-family: 'Literata', sans-serif;
       text-decoration-line: underline;
   }
-    h3 {font-size: 16px;
+    h3 {font-size: 20px;
     }
-    h4 { 
-      font-variant-caps: all-small-caps;
+
+    h3 small {
+      font-size: 16px;
+      font-style: italic;
+    }
+    
+    h4 {
+      font-size: 16px; 
+      font-style: italic;
     }
     p {
       padding-left: 100px;
       padding-right: 100px;
+    }
+    p1 {
+      font-size: 16px;
+    } 
+    ul {
+      font-size: 16px;
     }
